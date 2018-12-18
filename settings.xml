@@ -13,11 +13,6 @@ xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
 			<username>admin</username>
 			<password>admin123</password>
 		</server>
-		<server>
-			<id>localhost:8082</id>
-			<username>admin</username>
-			<password>admin123</password>
-		</server>
 	</servers>
 	<mirrors/>
 	<proxies/>
